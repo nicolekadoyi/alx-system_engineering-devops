@@ -1,0 +1,2 @@
+#!/bin/bash
+head -25 iacta | tail +25 >> iacta
