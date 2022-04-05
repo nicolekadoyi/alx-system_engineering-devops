@@ -1,0 +1,2 @@
+#!/bin/bash
+tr strir.01234 | tr water01234 | echo $(( $WATER+$STIR )) > tr bestchol01234
